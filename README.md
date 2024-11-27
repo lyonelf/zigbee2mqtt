@@ -92,6 +92,10 @@ Zigbee2MQTT integrates well with (almost) every home automation solution because
 
 -   Integration implemented in IoBroker ([documentation](https://github.com/o0shojo0o/ioBroker.zigbee2mqtt)).
 
+### [Jeedom] (https://jeedom.com/)
+
+-   Integration implemented in Jeedom by installing plugins (https://market.jeedom.com/index.php?v=d&p=market&type=plugin&&name=mqtt)
+
 <br>
 
 ## Architecture
